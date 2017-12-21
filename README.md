@@ -1,6 +1,6 @@
 # Sancaes
 
-#### Simple string encrypt-decryption method
+#### Simple SHORT-string encrypt-decryption method
 
 ***
 
