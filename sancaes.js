@@ -1,6 +1,6 @@
 //making sure that map contains unique chars only (no repeated characters)
 //fDelDup code, copied from StackOverflow solutions for removing duplicate chars in a string :
-//https://stackoverflow.com/a/4989150
+//https://stackoverflow.com/a/35977145
 function fDelDup(asText) {
 	return asText
 		.split('')
